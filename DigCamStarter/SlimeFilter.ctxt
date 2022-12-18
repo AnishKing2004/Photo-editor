@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SlimeFilter
+comment0.text=\n\ This\ filter\ averages\ out\ all\ the\ pixels\ intensities\ and\ sets\ it\ to\ the\ color\ green\ \n\ @author\ Anish\ Karumuri\n\ @version\ 11/30/2022\n\ \n
+comment1.params=data
+comment1.target=void\ filter(Pixel[][])
+comment2.params=row\ col\ data
+comment2.target=void\ setColor(int,\ int,\ Pixel[][])
+numComments=3

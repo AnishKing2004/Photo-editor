@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SnapShop
+comment0.text=\n\ A\ PhotoShop\ like\ application\ for\ filtering\ images\n\ \n\ @author\ Richard\ Dunn,\ modified\ by\ Parag,\ \n\ modified\ by\ Tammy\ VanDeGrift\n\ modified\ by\ kw\ to\ pass\ Pixel[][]\ to\ filters\ instead\ of\ PixelImage.\n\ @version\ Oct.\ 31,\ 2007\n\ @version\ March\ 2014\n\ \n\ \!\!\!\ DO\ NOT\ MODIFY\ THIS\ CLASS\ \!\!\!\n\ \!\!\!\ CS\ 203\ Students\:\ You\ do\ not\ need\ to\ understand\ the\ \n\ code\ in\ this\ class\ \!\!\!\n
+comment1.params=
+comment1.target=SnapShop()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SnapShop\n
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=f\ description
+comment3.target=void\ addFilter(Filter,\ java.lang.String)
+comment3.text=\n\ addFilter\n\ Adds\ a\ filter\ to\ the\ SnapShop\ interface.\ \ Creates\ a\ button\ and\n\ links\ it\ to\ the\ filter.\n\ @param\ f\ The\ filter\ to\ apply\n\ @param\ description\ English\ description\ of\ the\ filter\n
+comment4.params=
+comment4.target=void\ showWaitDialog()
+comment4.text=\n\ showWaitDialog\n\ makes\ wait\ dialog\ visible\n
+comment5.params=
+comment5.target=void\ hideWaitDialog()
+comment5.text=\n\ hideWaitDialog\n\ makes\ wait\ dialog\ invisible\n
+comment6.params=
+comment6.target=SnapShop.ImagePanel\ getImagePanel()
+comment6.text=\n\ getImagePanel\n\ returns\ ImagePanel\n\ @return\ ImagePanel\ associated\ with\n\ RenderingDialog\n
+comment7.params=filepath
+comment7.target=void\ setDefaultDirectory(java.lang.String)
+comment7.text=\n\ setDefaultDirectory\n\ Set\ the\ default\ directory\ to\ appear\ in\ the\ box\n\ @param\ filepath\ the\ default\ directory\ filepath\n
+numComments=8

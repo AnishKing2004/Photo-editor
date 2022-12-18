@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DemosaicFilter
+comment0.text=\n\ Filter\ that\ copies\ image\ to\ the\ right;\ demosaic\n\ @author\ Anish\ Karumuri\n\ modified\ 11/23/2022\n
+comment1.params=data
+comment1.target=void\ filter(Pixel[][])
+comment1.text=\ \n\ filter\n\ \n\ @param\ data\ The\ Pixel\ array\ object\ to\ modify\n
+comment2.params=id\ row\ col\ data
+comment2.target=void\ setColor(int,\ int,\ int,\ Pixel[][])
+numComments=3

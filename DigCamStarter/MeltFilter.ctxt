@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MeltFilter
+comment0.text=\n\ Grabs\ the\ average\ of\ the\ pixel\ above\ the\ current\ pixel\ and\ sets\ it\ to\ the\ current\ pixel.\n\ This\ creates\ a\ melting\ effect.\n\n\ @author\ Anish\ Karumuri\n\ @version\ 11/30/2022\n
+comment1.params=data
+comment1.target=void\ filter(Pixel[][])
+comment2.params=id\ row\ col\ data
+comment2.target=void\ setColor(int,\ int,\ int,\ Pixel[][])
+numComments=3

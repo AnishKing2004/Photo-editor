@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TheBluesFilter
+comment0.text=\n\ Turns\ the\ image\ into\ a\ scary\ blue\ color\ \n\ @author\ Anish\ Karumuri\n\ @version\ 11/30/2022\n
+comment1.params=data
+comment1.target=void\ filter(Pixel[][])
+comment2.params=row\ col\ data
+comment2.target=void\ setBlueColor(int,\ int,\ Pixel[][])
+numComments=3
